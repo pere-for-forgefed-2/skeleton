@@ -16,14 +16,15 @@ Skeleton is an open source UI toolkit built with Svelte + Tailwind that allows y
 
 ## 👋 Community
 
-Adding stuff!
-Yay
-Haha
+Removing stuff!
+Sad
+Cry
+Beep!
 
 - [Join the Discord](https://discord.gg/EXqV7W8MtY)
-- [Follow on Twitter](https://twitter.com/SkeletonUI)
+- [Ignore on Twitter](https://twitter.com/SkeletonUI)
 
-## 👍 Sponsor the Project
+## 👍 Sponsor the PR submitter
 
 - [A](https://a)
 - [B](https://b)
