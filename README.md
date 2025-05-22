@@ -4,9 +4,9 @@
 [![Chat](https://img.shields.io/discord/1003691521280856084?label=chat&logo=discord&color=7289da)](https://discord.gg/EXqV7W8MtY)
 [![license](https://img.shields.io/badge/license-MIT-%23bada55)](https://github.com/skeletonlabs/skeleton/blob/master/LICENSE)
 
-# 💀 Skeleton
+# 💀 Shmeleton
 
-Skeleton is an open source UI toolkit built with Svelte + Tailwind that allows you to create reactive web interfaces using [Svelte](https://svelte.dev/) + [Tailwind CSS](https://tailwindcss.com/).
+Shmeleton is an open source UI toolkit built with Svelte + Tailwind that allows you to create reactive web interfaces using [Svelte](https://svelte.dev/) + [Tailwind CSS](https://tailwindcss.com/).
 
 ## 🔗 Useful Links
 
@@ -23,7 +23,6 @@ Skeleton is an open source UI toolkit built with Svelte + Tailwind that allows y
 
 - [Ko-Fi](https://ko-fi.com/skeletonlabs)
 - [GitHub Sponsors](https://github.com/sponsors/skeletonlabs)
-- [Patreon](https://patreon.com/user?u=83786276)
 
 ## 🐞 Report an Issue
 
